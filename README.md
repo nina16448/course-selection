@@ -38,6 +38,6 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ![](https://i.imgur.com/J0BffHg.png)
 
 ### 最後就可以執行程式了:D
-
-## 4. 執行程式
 `python class_auto.py`
+![](https://i.imgur.com/miORfNq.png)
+### 選到所有課時程式會自動暫停
