@@ -3,7 +3,7 @@
 ## 1. 下載程式碼
 ` git clone https://github.com/nina16448/course-selection.git`
 
-## 2. 要下載符合自己版本的 chrome dtiver
+## 2. 要下載符合自己 chrome 版本的 chrome dtiver
 https://googlechromelabs.github.io/chrome-for-testing/
 
 ## 3. 使用方法
