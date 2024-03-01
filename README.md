@@ -11,16 +11,16 @@ https://googlechromelabs.github.io/chrome-for-testing/
 ### 打開程式碼 class_auto.py
 
 ### 假設說要選的課是 **漫遊聲樂的世界** ，這堂課在第1頁中
-![](https://i.imgur.com/yoecc1P.png)
+![](https://i.imgur.com/cRVgtHo.png)
 
 ### 那就先點進其他頁（示範點進第2頁）
-![](https://i.imgur.com/Hhg9BJQ.png)
+![](https://i.imgur.com/55ihYZp.png)
 
 ### 接著右鍵點擊 **第1頁** 選 **複製連結網址**
-![](https://i.imgur.com/8iaxSSd.jpeg)
+![](https://i.imgur.com/hEZkTwU.png)
 
-###  **漫遊聲樂的世界** 是在第 $3$ 格，且課程代碼為 $7304012$
-![](https://i.imgur.com/Xcr6HCI.png)
+###  **漫遊聲樂的世界** 是在第 $4$ 格，且課程代碼為 $7304012$
+![](https://i.imgur.com/TeFpu9y.png)
 
 
 ### 接著就將上述資訊貼到程式碼的清單中（網址太長截圖放不下）

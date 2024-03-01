@@ -39,12 +39,17 @@ my_list = [0, 0, 0]
 # [那頁的網址, 課程是該頁的第幾個，以及課程代碼]
 URL_list = [
     [
-        "http://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class/Add_Course01.cgi?session_id=AbULubSjXpg4NFeiNAxuwIDhWoE82Ac0E134&use_cge_new_cate=1&m=0&dept=I001&grade=1&page=1&cge_cate=2&cge_subcate=5",
-        8,
-        7403008,
-    ],  # 電影與國際關係
+        "https://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class/Add_Course01.cgi?session_id=eU4YAWR864NFeiNAxuwIYAaRqanZfQA515&use_cge_new_cate=1&m=0&dept=I001&grade=1&page=1&cge_cate=2&cge_subcate=1",
+        4,
+        7304012,
+    ],  # 漫遊聲樂的世界
     [
-        "http://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class/Add_Course01.cgi?session_id=AbULubSjXpg4NFeiNAxuwIDhWoE82Ac0E134&use_cge_new_cate=1&m=0&dept=I001&grade=1&page=2&cge_cate=2&cge_subcate=5",
+        "https://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class/Add_Course01.cgi?session_id=eU4YAWR864NFeiNAxuwIYAaRqanZfQA515&use_cge_new_cate=1&m=0&dept=I001&grade=1&page=2&cge_cate=2&cge_subcate=6",
+        3,
+        7506011,
+    ],  # 漫遊宇宙101個天體
+    [
+        "https://kiki.ccu.edu.tw/~ccmisp06/cgi-bin/class/Add_Course01.cgi?session_id=eU4YAWR864NFeiNAxuwIYAaRqanZfQA515&use_cge_new_cate=1&m=0&dept=I001&grade=1&page=2&cge_cate=2&cge_subcate=1",
         0,
         0,
     ],  # 空
