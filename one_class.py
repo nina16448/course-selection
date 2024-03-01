@@ -1,3 +1,10 @@
+"""
+如果只有一堂課要選，這個程式碼比較簡單:D
+把要選的課的網址丟在URL1，然後在55行填入課程是該頁的第幾個，以及課程代碼
+URL2可以隨便丟 "下一頁" 的網址
+就可以運作ㄌ:D
+"""
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from datetime import datetime
